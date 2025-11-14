@@ -33,4 +33,12 @@ Retourne payload JWT
 <img width="1919" height="299" alt="image" src="https://github.com/user-attachments/assets/a640d086-b1a4-4b2b-ae81-b8d0bb1c0c3e" />
 
 
+6. Ajouter un champ "email" dans le token JWT lors du login, puis
+
+    le renvoyer dans /me,
+    et l'afficher côté frontend.
+
+<img width="982" height="419" alt="image" src="https://github.com/user-attachments/assets/306355f2-9c5c-443e-bf17-61c5f25ba395" />
+
+
 
